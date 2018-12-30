@@ -3,10 +3,10 @@
 Spring fundamentals course on pluralsight.
 
 ## Content
-Introduction
-Architecture and Project Setup
-Spring XML Configuration
-Spring Annotation Configuration Using XML
-Spring Configuration Using Java
-Bean Scopes
-Properties
+Introduction<br>
+Architecture and Project Setup<br>
+Spring XML Configuration<br>
+Spring Annotation Configuration Using XML<br>
+Spring Configuration Using Java<br>
+Bean Scopes<br>
+Properties<br>
