@@ -1,17 +1,18 @@
 import org.springframework.context.ApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import com.pluralsight.service.CustomerService;
 
 public class Application {
 
-	public static void main(String[] args) {		
-		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+	public static void main(String[] args) {
+		
+		ApplicationContext applicationContext = new AnnotationConfigApplicationContext(AppConfig.class);
 		
 		CustomerService customerService = applicationContext.getBean("customerService", CustomerService.class);
 		
 		System.out.println(customerService);
-	
+		
 		customerService = applicationContext.getBean("customerService", CustomerService.class);
 		
 		System.out.println(customerService);
