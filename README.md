@@ -14,4 +14,4 @@ Properties<br>
 
 ## Spring bean container
 <img src="https://supundharmarathne.files.wordpress.com/2013/07/spring-egitimi.png?w=720"/>
-<img src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-1-4842-0808-3_2/MediaObjects/978-1-4842-0808-3_2_Fig1_HTML.jpg"/>
+<img style="width: 500px; margin: 1px solid black;" src="https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-1-4842-0808-3_2/MediaObjects/978-1-4842-0808-3_2_Fig1_HTML.jpg"/>
